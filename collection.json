@@ -1,0 +1,114 @@
+[
+    {
+        "id": 869530209542282463,
+        "name": "4",
+        "coordinates": {
+            "x": 4,
+            "y": 4.0
+        },
+        "creationDate": "2023-05-13T04:35:05.9319985",
+        "minimalPoint": 4,
+        "personalQualitiesMinimum": 4,
+        "difficulty": null,
+        "discipline": {
+            "name": "4",
+            "selfStudyHours": 4
+        }
+    },
+    {
+        "id": 2040492530163305535,
+        "name": "vvds",
+        "coordinates": {
+            "x": 2,
+            "y": 32.0
+        },
+        "creationDate": "2023-05-13T03:50:29.0950648",
+        "minimalPoint": 2,
+        "personalQualitiesMinimum": 33,
+        "difficulty": null,
+        "discipline": {
+            "name": "fd",
+            "selfStudyHours": 32
+        }
+    },
+    {
+        "id": 4133680106126679817,
+        "name": "ved",
+        "coordinates": {
+            "x": 3,
+            "y": 3.0
+        },
+        "creationDate": "2023-05-19T06:26:15.8466576",
+        "minimalPoint": 3,
+        "personalQualitiesMinimum": 3,
+        "difficulty": null,
+        "discipline": {
+            "name": "3",
+            "selfStudyHours": 3
+        }
+    },
+    {
+        "id": 9181377527387947337,
+        "name": "fe",
+        "coordinates": {
+            "x": 3,
+            "y": 3.0
+        },
+        "creationDate": "2023-05-13T04:25:10.8322674",
+        "minimalPoint": 3,
+        "personalQualitiesMinimum": 3,
+        "difficulty": null,
+        "discipline": {
+            "name": "3",
+            "selfStudyHours": 3
+        }
+    },
+    {
+        "id": 6725751292299870129,
+        "name": "vfe4",
+        "coordinates": {
+            "x": 4,
+            "y": 4.0
+        },
+        "creationDate": "2023-05-13T03:50:13.1069397",
+        "minimalPoint": 4,
+        "personalQualitiesMinimum": 4,
+        "difficulty": null,
+        "discipline": {
+            "name": "4",
+            "selfStudyHours": 4
+        }
+    },
+    {
+        "id": 8891147222218289707,
+        "name": "d",
+        "coordinates": {
+            "x": 55,
+            "y": 55.0
+        },
+        "creationDate": "2023-05-13T03:50:40.6617679",
+        "minimalPoint": 500,
+        "personalQualitiesMinimum": 9,
+        "difficulty": "NORMAL",
+        "discipline": {
+            "name": "fddd",
+            "selfStudyHours": 33
+        }
+    },
+    {
+        "id": 5052088274693052078,
+        "name": "greg",
+        "coordinates": {
+            "x": 45,
+            "y": 45.0
+        },
+        "creationDate": "2023-05-25T19:27:05.1071481",
+        "minimalPoint": 4454,
+        "personalQualitiesMinimum": 656,
+        "difficulty": null,
+        "discipline": {
+            "name": "565",
+            "selfStudyHours": 56
+        }
+    }
+]
